@@ -4,3 +4,4 @@
 *	Cleaned the raw data using python scripts and excel commands like vlookup and bulk inserted the data into the database using load files.
 *	Used complex SQL queries to get insights about the performance of the players and teams over the years.
 *	Designed a UI from scratch to insert, delete and update player's details using PERN stack.
+* For more details about the project refer to "Project-Report" above.
